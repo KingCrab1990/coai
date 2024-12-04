@@ -231,4 +231,4 @@ Thus, **Chat Nio** was born. We hope to create a project that has both a powerfu
 
 ## ❤ Donations
 
-If you find this project helpful, you can give it a Star to show your support!
+If you find this project helpful, you can give it a Star to show your support!  
